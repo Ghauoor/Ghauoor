@@ -11,9 +11,6 @@ I love to solve problems and have experience of different programming languages,
 * 🧠  I'm learning Web Technologies
 * 🤝  I'm open to collaborating on Flutter and React Native Projects
 
-<a href="https://www.github.com/Ghauoor" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Ghauoor?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 
