@@ -6,10 +6,10 @@ Tech Enthusiast
 
 I love to solve problems and have experience of different programming languages, I take every problem as a challenge for me and try my best to solve it as soon as possible. My centers of interest are App Development, CP, Cloud Computing and AI.
 
-* 🌍  I'm based in Lahore
+* 🌍  I'm based in Pakistan(Lahore).
 * ✉️  You can contact me at [ghayoorhussain701@gmail.com](mailto:ghayoorhussain701@gmail.com)
-* 🧠  I'm learning Web Technologies
-* 🤝  I'm open to collaborating on Flutter and React Native Projects
+* 🧠  I'm learning App Development.
+* 🤝  I'm open to collaborating on Flutter.
 
 ### Skills
 
