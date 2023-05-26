@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ghayoor Hussain</h1>
-<h3 align="center">Software Engineer ,Tech Enthusiast</h3>
+<h3 align="center">Software Engineer, Tech Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghauoor&label=Profile%20views&color=0e75b6&style=plastic" alt="ghauoor" /> </p>
 
