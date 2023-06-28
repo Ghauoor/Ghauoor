@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghauoor" alt="ghauoor" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, Android Native**
+- 🌱 I’m currently learning **MERN Stack with React Native**
 
-- 💬 Ask me about **Flutter, Android Native**
+- 💬 Ask me about **Flutter, React, React Native, jS**
 
 - 📫 How to reach me **ghayoorhussain701@gmail.com**
 
