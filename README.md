@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **ghayoorhussain701@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bizjm6eGVnlV1YsIcxD0eMg2RV1ndXVc/view?usp=sharing](https://drive.google.com/file/d/1bizjm6eGVnlV1YsIcxD0eMg2RV1ndXVc/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ghayoor-hussain-50419321a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghayoor-hussain-50419321a" height="30" width="40" /></a>
